@@ -464,6 +464,7 @@ body, html {
     position: relative;
     margin-top: -50px;
 }
-textearea{
+.contatoconfig textarea {
     resize: none;
 }
+
